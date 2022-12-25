@@ -1,0 +1,64 @@
+.masthead {
+  background-image: url('../assets/images/welcomeBg.jpg');
+}
+
+.footer-main {
+  background: rgb(33,37,41);
+}
+
+.footer-wrapper {
+  background: var(--gray-dark);
+}
+
+.footer-info {
+  color: #d0d0d0;
+  margin-bottom: 0px;
+  font-size: 12px;
+}
+
+.footer-icons {
+  margin: 16px;
+  font-size: 22px;
+  border-radius: 50%;
+  border-width: 1px;
+  border-style: solid;
+  padding: 8px;
+  color: #f05f40;
+}
+
+.footer-icons i {
+  border: none;
+}
+
+.cc-footer {
+  width: auto;
+  margin-bottom: 8px;
+  margin-top: 8px;
+  color: var(--bs-secondary);
+}
+
+a, .mdl-accordion, .mdl-button, .mdl-card, .mdl-checkbox, .mdl-dropdown-menu, .mdl-icon-toggle, .mdl-item, .mdl-radio, .mdl-slider, .mdl-switch, .mdl-tabs__tab {
+  -webkit-tap-highlight-color: transparent;
+  -webkit-tap-highlight-color: rgba(255,255,255,0);
+}
+
+h1, h2, h3, h4, h5, h6, p {
+  padding: 0;
+}
+
+h6, p {
+  font-weight: 400;
+  line-height: 24px;
+}
+
+p {
+  font-size: 14px;
+  letter-spacing: 0;
+  margin: 0 0 16px;
+}
+
+a {
+  color: rgb(255,171,64);
+  font-weight: 500;
+}
+
